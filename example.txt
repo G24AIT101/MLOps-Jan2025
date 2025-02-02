@@ -1,1 +1,3 @@
 Modified content for G24AIT102
+Completely new content for G24AIT100
+Resolved merge conflict in example.txt
